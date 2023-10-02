@@ -1,3 +1,3 @@
 # MAGD270
 
-Here is a web project I did for 270 at UWW
+This was a project to recreate a website using html to the best of our ability.
